@@ -25,7 +25,7 @@ const ContactText = styled.p`
 const Contact: FC = () => {
 	return (
 		<ContactLink
-			href='https://github.com/BlakeIsMyWaifu/PaydayBuilder'
+			href='https://github.com/JoelDohmKaratjas/PaydayBuilder'
 			target='_blank'
 			rel='noopener noreferrer'
 		>

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="250px" src="https://github.com/blakeismywaifu/paydaybuilder/blob/master/public/images/logo.png?raw=true">
+  <img width="250px" src="https://github.com/JoelDohmKaratjas/paydaybuilder/blob/master/public/images/logo.png?raw=true" alt="Payday Builder Logo">
   <br />
   Payday Builder
 </h1>
@@ -21,10 +21,10 @@ Inspired by [pd2builder](https://github.com/r-paydaybuilds/pd2builder)
   </thead>
   <tr>
     <td align="center">
-      <img src="https://github.com/blakeismywaifu.png?size=100" alt="BlakeIsMyWaifu Avatar" width="100">
+      <img src="https://github.com/JoelDohmKaratjas.png?size=100" alt="JoelDohmKaratjas Avatar" width="100">
       <br />
-      <a href="https://github.com/BlakeIsMyWaifu">
-        BlakeIsMyWaifu
+      <a href="https://github.com/JoelDohmKaratjas">
+        Joel Dohm-Karatjas
       </a>
     </td>
     <td align="center">
@@ -46,7 +46,7 @@ Inspired by [pd2builder](https://github.com/r-paydaybuilds/pd2builder)
 ### Running Locally
 
 Requires [Node.js](https://nodejs.org/en/) <br />
-`$ git clone https://github.com/BlakeIsMyWaifu/PaydayBuilder` <br />
+`$ git clone https://github.com/JoelDohmKaratjas/PaydayBuilder` <br />
 `$ yarn install` <br />
 
 Rename `.env.example` to `.env` and update the information inside
@@ -82,4 +82,4 @@ You should either submit an issue or get in touch before creating a pull request
 
 ## Contact
 
-- Discord: Blake Belladonna#1608
+- Discord: BlakeIsMyWaifu
